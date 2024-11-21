@@ -1,16 +1,30 @@
 ## Hi there 👋
+This is my test repository. Here I am testing the various feeatures GitHub is providing.
 
-<!--
-**priyankaadusumill/priyankaadusumill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**<ins>Introduction</ins>**
+```
+My introduction:
+👋 Hello! I’m Priyanka, an aspiring data scientist on a mission to turn raw data into actionable insights.
+📊 From exploring big data to building machine learning models, I love diving into projects that challenge my analytical skills.
+🚀 Excited about exploring data science and AI to make systems smarter and safer.
+🌱 Always learning something new—currently mastering python and Machine Learning.
+```
 
-Here are some ideas to get you started:
+**<ins>Skills and Technologies</ins>**
+```
+Python
+C
+CPP
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**<ins>Projects</ins>**
+```
+My projects
+Project Bidding And Cost Estimation using Machine Learning. 
+```
+
+**<ins>Contact info</ins>**
+```
+Email : adusumillipriyanka638@gmail.com
+Location : Kansas City , Missouri State.
+```
